@@ -1,2 +1,3 @@
 my code
 some fixes
+some another fix in master branch,and see merge conflict
