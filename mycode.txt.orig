@@ -1,9 +1,8 @@
 my code
 some fixes
 <<<<<<< HEAD
-some another fix in master branch,and see merge conflict
+new code in master
 ||||||| merged common ancestors
 =======
-new fixes in new branch
-
->>>>>>> fixes/fix1
+some code in fix/fix1
+>>>>>>> fix/fix1
